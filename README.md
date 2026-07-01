@@ -1,16 +1,40 @@
-## Hi there 👋
+# Pablo Vitoria
 
-<!--
-**pablovitoria/pablovitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager passionate about building products that solve meaningful customer and business problems through analytics, technology, and thoughtful product design.
 
-Here are some ideas to get you started:
+---
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 ProductPilot (coming soon)
+
+An AI-assisted workspace that helps Product Managers transform customer feedback into better product decisions while keeping human judgment at the center.
+
+---
+
+## Focus Areas
+
+• Product Strategy & Management
+
+• Business Transformation
+
+• Analytics & Machine Learning
+
+• AI Applications
+
+• Consumer & operational Products
+
+---
+
+## Featured Projects
+
+🚧 ProductPilot *(coming soon)*
+
+📊 Operations Decision Engine
+
+📈 Machine Learning Projects
+
+---
+
+## Philosophy
+
+> Technology should improve how we make decisions—not replace the people making them.
