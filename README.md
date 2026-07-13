@@ -33,4 +33,4 @@ An AI-assisted workspace that helps Product Managers transform customer feedback
 
 ## Philosophy
 
-> Technology should improve how we make decisions—not replace the people making them.
+> Technology should improve how we make decisions, not replace the people making them.
