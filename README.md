@@ -27,11 +27,7 @@ An AI-assisted workspace that helps Product Managers transform customer feedback
 
 ## Featured Projects
 
-🚧 ProductPilot *(coming soon)*
-
-📊 Operations Decision Engine
-
-📈 Machine Learning Projects
+🚧 ProductPilot *(Active MVP)*
 
 ---
 
