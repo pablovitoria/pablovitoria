@@ -21,7 +21,7 @@ An AI-assisted, human-in-the-loop workspace for turning customer feedback into e
 
 • AI Applications
 
-• Consumer & operational Products
+• Consumer & Operational Products
 
 ---
 
