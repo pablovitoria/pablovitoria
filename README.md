@@ -5,9 +5,9 @@ Product Manager passionate about building products that solve meaningful custome
 ---
 ## What I'm working on
 
-🚀 ProductPilot (coming soon)
+🚀 ProductPilot (MVP)
 
-An AI-assisted workspace that helps Product Managers transform customer feedback into better product decisions while keeping human judgment at the center.
+An AI-assisted, human-in-the-loop workspace for turning customer feedback into evidence-backed product decisions.
 
 ---
 
